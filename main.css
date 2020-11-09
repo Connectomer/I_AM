@@ -1,0 +1,18 @@
+.hidden{
+    display:none;
+}
+
+.show{
+    display:inline;
+}
+
+.text{
+  white-space: pre-wrap;
+}
+
+body{
+  background-color: black;
+  color: #FFF;
+  font: 16px/1.5 "Courier New", serif;
+  text-align: justify;
+}
